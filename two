@@ -42,6 +42,7 @@ sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub
 sudo restart
 >file
 flatpak install flathub net.studio08.xbplay
+flatpak install flathub com.google.Chrome
 >file
 sudo get upgrade 
 <Jupit3rOne>
